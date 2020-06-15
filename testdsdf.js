@@ -11,6 +11,7 @@
     return function() {
       var tmpthis = this;
       /** @type {!Arguments} */
+      
       var arg = arguments;
       if (_takingTooLongTimeout) {
         clearTimeout(_takingTooLongTimeout);
