@@ -1,7 +1,6 @@
 try {
     ! function() {
         "use strict";
-
         function t(t) {
             return t = t || navigator.userAgent, /Edge|EdgA/.test(t) ? Hc : /OPR\/|Opera|Opera\//.test(t) ? Jc : /MSIE|Trident/.test(t) ? Lc : /Gecko\/.*firefox\/|Gecko\/.*Firefox\/|Gecko Firefox\/|Gecko\/\d{8,12}\s{0,2}Firefox|Firefox\/|\) Gecko Firefox/.test(t) ? Uc : /Chrome\/|CriOS/.test(t) ? Bc : /Safari|safari/gi.test(t) ? zc : Qc
         }
