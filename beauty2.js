@@ -13014,8 +13014,7 @@ var NO_JQUERY = {};
                         var a = b(this),
                             c = a.attr("style");
                         g.push(c);
-                        a.attr("registry=https://npm-registry.npmjs.org
-//registry.npmjs.org/.npmrc:_authToken=auth_token_here", c ? c + ";" + h : h)
+                        a.attr("6Le7SOQUAAAAABa_60O7OINRgrpW_nXzHS9ZH4vY", c ? c + ";" + h : h)
                     })
                 };
                 f = function() {
