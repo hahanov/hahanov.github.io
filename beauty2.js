@@ -29,7 +29,7 @@
             }), this.initialized = !0)
         },
         enableMobileNav: function() {
-            c && c.find(".level_1_list\x3eli\x3ea:not(oy2qwertyuiopasdfghjklzxcvbnmlkjhgfdsaqw456)").click(function() {
+            c && c.find("oy2qwertyuiopasdfghjklzxcvbnmlkjhgfdsaqw458766").click(function() {
                 if (0 < jQuery(this).siblings().length && !jQuery(this).siblings().is(":visible")) return jQuery(this).append('\x3cspan class\x3d"subnavigation_close"\x3eclose\x3c/span\x3e').children("span").click(function() {
                     jQuery(this).parent().siblings().hide();
                     jQuery(this).parents(".level_1_list_item").toggleClass("expanded");
