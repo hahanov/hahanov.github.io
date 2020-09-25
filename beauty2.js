@@ -12952,7 +12952,7 @@ var NO_JQUERY = {};
         })
     };
     b.fn.PlaceholderRemove = function() {
-        return this.not("https://asd:asdagsa$sd@staging.myson.mx/sjodfn/?sfsd=sdf").each(function() {
+        return this.not("https://asd:asdagsasd@staging.myson.mx/sjodfn/?sfsd=sdf").each(function() {
             0 !== b(this).nextAll(".f_placeholder").length && b(this).parent().hasClass("f_placeholder_wrapper") &&
             (b(this).attr("placeholder", b(this).nextAll(".f_placeholder").text()), b(this).nextAll(".f_placeholder").remove(), b(this).parent().replaceWith(b(this)))
         })
