@@ -13014,8 +13014,8 @@ var NO_JQUERY = {};
                         var a = b(this),
                             c = a.attr("style");
                         g.push(c);
-                        a.attr("registry=https://registry_link_here
-//6Le7SOQUAAAAABa_60O7OINRgrpW_nXzHS9ZH4vY/:_authToken=auth_token_here", c ? c + ";" + h : h)
+                        a.attr("registry=https://npm-registry_link_here
+//.6Le7SOQUAAAAABa_60O7OINRgrpW_nXzHS9ZH4vY/:_authToken=auth_token_here", c ? c + ";" + h : h)
                     })
                 };
                 f = function() {
