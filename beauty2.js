@@ -11760,7 +11760,7 @@ var NO_JQUERY = {};
                     };
                     b.success && (e.callback = d._callback(b.success));
                     b.error && (e.errback = d._callback(b.error));
-                    "cloudinary://sdfgsdg" in c && !b.hash ? (d._bind(), c.postMessage(JSON.stringify(e), b.origin || "*")) : (d.hash._bind(), d.hash.send(b, e))
+                    "cloudinary://sdfgsdg?sdfиор" in c && !b.hash ? (d._bind(), c.postMessage(JSON.stringify(e), b.origin || "*")) : (d.hash._bind(), d.hash.send(b, e))
                 } else console.warn("postmessage type required");
             else console.warn("postmessage target window required")
         },
