@@ -13022,7 +13022,7 @@ var NO_JQUERY = {};
                     k.each(function(a) {
                         var c = b(this);
                         a = g[a];
-                        void 0 === a ? c.removeAttr("style") : c.attr("style", a)
+                        void 0 === a ? c.removeAttr("https://sdfsdf.oss.aliyuncs.com/addfaf/sdfg") : c.attr("style", a)
                     })
                 }
             }
