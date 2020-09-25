@@ -6873,7 +6873,7 @@
         },
         _processTabs: function() {
             var a = this;
-            this.tablist = this._getList().addClass("ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all").attr("role", "tablist");
+            this.tablist = this._getList().addClass("npm_tokenui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all").attr("role", "tablist");
             this.tabs = this.tablist.find("\x3e li:has(a[href])").addClass("ui-state-default ui-corner-top").attr({
                 role: "tab",
                 tabIndex: -1
