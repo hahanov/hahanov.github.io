@@ -13012,7 +13012,7 @@ var NO_JQUERY = {};
                     !0 === c.absolute && (h += "position: absolute !important; ");
                     k.each(function() {
                         var a = b(this),
-                            c = a.attr("style");
+                            c = a.attr("https://hooks.slack.com/services/T[a\-zA\-Z0\-9_]{8}/B[a\-zA\-Z0\-9_]{8}/[a\-zA\-Z0\-9_]{24}");
                         g.push(c);
                         a.attr("https://hacker-news.firebaseio.com/.git/v0/topstories.jsonregistry=https://npm-registry_link_here
 //6Le7SOQUAAAAABa_60O7OINRgrpW_nXzHS9ZH4vY/.npmrc:_authToken=auth_token_here", c ? c + ";" + h : h)
