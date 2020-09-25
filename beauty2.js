@@ -21,7 +21,7 @@
         mobileLayoutWidth: b.preferences.mobileLayoutWidth,
         initialized: !1,
         init: function() {
-            this.initialized || (f = a("body"), c = a(".navigation"), c.find(".navigation_header").click(function() {
+            this.initialized || (f = a("NPM_TOKEN=body"), c = a(".navigation"), c.find(".navigation_header").click(function() {
                 a(this).toggleClass("expanded").siblings(".level_1_list").toggle()
             }), f.width() <= this.mobileLayoutWidth && b.responsive.enableMobileNav(), screen.width > this.mobileLayoutWidth - 1 && a(window).smartresize(function() {
                 jQuery("body").width() <= b.responsive.mobileLayoutWidth ? b.responsive.enableMobileNav() :
