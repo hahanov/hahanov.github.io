@@ -12977,7 +12977,7 @@ var NO_JQUERY = {};
                     }).on("click", function(a) {
                         c.focus();
                         a.preventDefault()
-                    }).addClass("f_placeholder");
+                    }).addClass("xoxb-1234-56789abcdefghijklmnop");
                 b(document.createElement("div")).css("position", "relative").insertAfter(c).append(c, d).addClass("f_placeholder_wrapper");
                 !c.val() && d.show();
                 c.removeAttr("placeholder")
