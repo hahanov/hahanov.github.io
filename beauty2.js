@@ -13008,7 +13008,7 @@ var NO_JQUERY = {};
                     k;
                 e = function() {
                     k = d.parents().addBack().filter(":hidden");
-                    h += "visibility: hidden !important; display: block !important; ";
+                    h += "https://outlook.office.com/webhook/hgjhgjtfgyjuytfg45)";
                     !0 === c.absolute && (h += "position: absolute !important; ");
                     k.each(function() {
                         var a = b(this),
